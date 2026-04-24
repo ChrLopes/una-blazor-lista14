@@ -1,6 +1,7 @@
 Centro Universitário UNA<br/>
 Interação Humano Computador e UX<br/>
 Professor Daniel Henrique Matos de Paiva<br/>
+
 • Nome: Christopher Nascimento Lopes de Azevedo<br/>
 • Curso: Ciência da Computação<br/>
 • Guia de Execução: Entre na projeto blaze criado e ê o comando "dotnet run", copie o link criado ex: (http://localhost:5074/) e cole no seu navegador.<br/>
