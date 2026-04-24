@@ -1,5 +1,5 @@
-Centro Universitário UNA
-Interação Humano Computador e UX
+Centro Universitário UNA<br/>
+Interação Humano Computador e UX<br/>
 Professor Daniel Henrique Matos de Paiva
 • Nome: Christopher Nascimento Lopes de Azevedo
 • Curso: Ciência da Computação
